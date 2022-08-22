@@ -27,3 +27,5 @@ Possui diversas animações feitas com CSS e outras com JavaScript
 <p>
   <a href="https://www.figma.com/file/OhbnGhRxQ1BjH2jYOsPMVN/Portfolio">Projeto no Figma</a>
 </p>
+
+### <a href="https://nicoleespinosa.github.io/portfolio-nicole/">Clique e irá direto para o portfólio!</p>
