@@ -1,7 +1,7 @@
 <img src="assets/imagem_2022-08-22_133059404.png"/>
 
 # Portfólio
-Esse foi o meu primeiro portfólio, usei um vídeo do youtube para auxiliar, visto que ainda não possuo experiência.
+Esse foi o meu primeiro portfólio, usei um vídeo do youtube para auxiliar, visto que ainda não possuo tanta experiência.
 Ainda está em construção, falta a responsividade e adicionar os projetos.
 Possui diversas animações feitas com CSS e outras com JavaScript
 
